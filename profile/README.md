@@ -4,7 +4,7 @@
 
 🦋 **Butterfly** is the project we focus on currently, which is An Open NLP Research Project for Chinese Danmaku. You can see the details in https://github.com/TinyTalks/Butterfly
 
-👩‍💻 If you are interested in our work and want to join us, we are very welcome. Please contact with email: wujunchaoiu@outlook.com
+👩‍💻 If you are interested in our work and want to join us, we are very welcome. Please contact with us.
 <!--
 
 **Here are some ideas to get you started:**
