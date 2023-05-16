@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center"><img src="TinyTalksLogo/logo_transparent.png" height="300px"/></div>
+<h2 align="center"> 🔬TinyTalks: A Community for NLP research in Short Text in Chinese</h2>
+
+<h4 align="center">
+    <a href="https://github.com/DBsCCorpus">中文</a> |
+    <a href="https://github.com/DBsCCorpus">English</a>
+</h4>
+
 
 🙋‍♀️ This is **TinyTalks**: A Community for NLP research in Short Text in Chinese
 
