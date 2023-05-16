@@ -1,9 +1,9 @@
-<div align="center"><img src="TinyTalksLogo/logo_transparent.png" height="300px"/></div>
+<div align="center"><img src="https://github.com/TinyTalks/.github/blob/main/profile/TinyTalksLogo/logo_transparent.png" height="300px"/></div>
 <h2 align="center"> 🔬TinyTalks: A Community for NLP research in Short Text in Chinese</h2>
 
 <h4 align="center">
-    <a href="https://github.com/DBsCCorpus">中文</a> |
-    <a href="https://github.com/DBsCCorpus">English</a>
+    <a href="https://github.com/TinyTalks">中文</a> |
+    <a href="https://github.com/TinyTalks">English</a>
 </h4>
 
 
