@@ -6,12 +6,21 @@
     <a href="https://github.com/TinyTalks">English</a>
 </h4>
 
+## 🍿TinyTalk Introduction
 
-🙋‍♀️ This is **TinyTalks**: A Community for NLP research in Short Text in Chinese
+- 🙋‍♀️ This is **TinyTalks**: A Community for NLP research in Short Text in Chinese
 
-🦋 **Butterfly** is the project we focus on currently, which is An Open NLP Research Project for Chinese Danmaku. You can see the details in https://github.com/TinyTalks/Butterfly
+- 🦋 **Butterfly** is the project we focus on currently, which is An Open NLP Research Project for Chinese Danmaku. You can see the details in https://github.com/TinyTalks/Butterfly
 
-👩‍💻 If you are interested in our work and want to join us, we are very welcome. Please contact with us.
+- 👩‍💻 If you are interested in our work and want to join us, we are very welcome. Please contact with us.
+
+### 🌈 TinyTalk Group Member
+
+- Yang Jing @Beijing Normal University
+- [Wu Junchao](https://github.com/junchaoIU) @University of Macau
+- [Chen Xin](https://github.com/Chen-X666) @University of Southampton
+- [Chen Weiyu](https://github.com/weiyuchens) @King's College London
+
 <!--
 
 **Here are some ideas to get you started:**
