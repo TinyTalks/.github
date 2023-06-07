@@ -20,8 +20,8 @@
 - [Wu Junchao](https://github.com/junchaoIU) @University of Macau
 - [Chen Xin](https://github.com/Chen-X666) @University of Southampton
 - [Chen Weiyu](https://github.com/weiyuchens) @King's College London
-- Hu Xinran @University of Macau
-- Liang Zhanfan @Beijing Normal University, Zhuhai
+- [Hu Xinran](https://github.com/JoyHUCe) @University of Macau
+- [Liang Zhanfan](https://github.com/fanfanarea) @Beijing Normal University, Zhuhai 
 
 <!--
 
